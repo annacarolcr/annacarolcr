@@ -8,7 +8,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MySQL" height="33" width="50" src="https://lh3.googleusercontent.com/proxy/dZHeKU1W-GshRPJCITjVGYTfk8nBbvF1UqR_Cs9SjxH6fmj7n5okmKdQstaVKGOF10PQUGUNzn1pAGSW3oxTlrlH57tGBk-V6HcPZFZVlaKZrf4ODE_w6Tsd1d4ZPBU">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://lh3.googleusercontent.com/proxy/dZHeKU1W-GshRPJCITjVGYTfk8nBbvF1UqR_Cs9SjxH6fmj7n5okmKdQstaVKGOF10PQUGUNzn1pAGSW3oxTlrlH57tGBk-V6HcPZFZVlaKZrf4ODE_w6Tsd1d4ZPBU">
   <!--https://www.protocloudtechnologies.com/wp-content/uploads/2021/05/laravel-icon-2.webp-->
 </div>
   
