@@ -8,7 +8,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Laravel" height="36" width="36" src="https://laravel.com/img/logomark.min.svg">
+  <img align="center" alt="Laravel" height="33" width="33" src="https://laravel.com/img/logomark.min.svg">
   
 </div>
   
